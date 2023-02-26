@@ -1,0 +1,15 @@
+{
+  "short_name": "SRI VISHAL S",
+  "name": "Portfolio By Vishal",
+  "icons": [
+    {
+      "src": "/assets/img/newlogo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#0e2442",
+  "theme_color": "#0e2442"
+}
