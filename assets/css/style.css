@@ -19,7 +19,7 @@ a {
   position: fixed;
   z-index: 200000;
   top: 0;
-  background: #000 url(/port-images/load-bg.jpg) center no-repeat;
+  background: url(/port-images/load-bg.jpg) center no-repeat;
   background-size: cover;
   margin: 0;
 }
